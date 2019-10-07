@@ -1,6 +1,7 @@
 # Chernyatina-training<!doctype html>
 <html>
 <head>
+ <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 <meta charset="utf-8">
 <title>Основи WEB-програмування</title>
 <h1>Основи WEB-програмування</h1>
